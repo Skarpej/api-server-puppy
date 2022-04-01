@@ -27,7 +27,7 @@ The project shall also:
 
 We want you to build an application similar to the following 'design'.
 
-<img src="design.jpg" height="400px" object-fit="contain"/>
+<img src="design.jpeg" height="400px" object-fit="contain"/>
 
 The technical requirements are fairly few, so feel free to add features if you have time. However, we require that the application:
 
